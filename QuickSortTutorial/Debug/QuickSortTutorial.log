@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  QuickSortTutorial.cpp
+e:\c_code_mike\all c plus plus\quicksorttutorial\quicksorttutorial\quicksorttutorial.cpp(15): warning C4101: 'left': unreferenced local variable
+e:\c_code_mike\all c plus plus\quicksorttutorial\quicksorttutorial\quicksorttutorial.cpp(15): warning C4101: 'right': unreferenced local variable
+  QuickSortTutorial.vcxproj -> E:\C_code_mike\all c plus plus\QuickSortTutorial\Debug\QuickSortTutorial.exe
